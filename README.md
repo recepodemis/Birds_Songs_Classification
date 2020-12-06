@@ -1,2 +1,3 @@
 # Birds_Songs_Classification
+I use the kaggle and you can access this link https://www.kaggle.com/fleanend/birds-songs-numeric-dataset 
 Context Birds use calls and songs for a plethora of purposes: from attracting potential partners to asserting dominance over a territory. This Dataset is comprised of a balanced training set and a test set of 88 species grouped in 61 genera of spectral features extracted from the birds' songs.  Content Each species in the training set can count on 20 data points. The 169 features all come from the spectral analysis of the birds' songs The training set is balanced, while the test set lacks some species and has an overabundance of others.  The features have been extracted from the British Birdsong Dataset, here's the extraction process
